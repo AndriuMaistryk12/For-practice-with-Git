@@ -1,1 +1,1 @@
-# For-practice-with-Git
+# Studying_javascript
